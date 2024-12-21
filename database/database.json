@@ -41076,5 +41076,34 @@
         "tags": [
             "python"
         ]
+    },
+    "https://github.com/Genesis-Embodied-AI/Genesis": {
+        "extra-tags": [
+            "generative",
+            "robotics",
+            "ai",
+            "learning"
+        ],
+        "date": "2023-10-31",
+        "title": "Genesis",
+        "summary": "A generative world for general-purpose robotics & embodied AI learning.",
+        "tags": [
+            "python"
+        ]
+    },
+    "https://yoshuabengio.org/2022/03/05/generative-flow-networks/": {
+        "extra-tags": [
+            "tutorial",
+            "paper",
+            "generative"
+        ],
+        "title": "Generative Flow Networks",
+        "summary": "(see gflownet tutorial and paper list here) I have rarely been as enthusiastic about a new research direction. We call them GFlowNets, for Generative Flow\u2026",
+        "date": "2024-12-20",
+        "tags": [
+            "gflownets",
+            "generative flow networks",
+            "gflownet"
+        ]
     }
 }
