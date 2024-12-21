@@ -41105,5 +41105,35 @@
             "generative flow networks",
             "gflownet"
         ]
+    },
+    "https://www.notion.so": {
+        "extra-tags": [
+            "notion",
+            "notes",
+            "databases",
+            "tool"
+        ],
+        "title": "Notion \u2013 The all-in-one workspace for your notes, tasks, wikis, and databases.",
+        "summary": "A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team",
+        "date": "2024-12-21",
+        "tags": [
+            "blog",
+            "gflownet"
+        ]
+    },
+    "https://lilianweng.github.io/posts/2018-10-13-flow-models/": {
+        "extra-tags": [
+            "x",
+            "generative",
+            "models",
+            "deep"
+        ],
+        "title": "Flow-based Deep Generative Models",
+        "summary": "So far, I\u2019ve written about two types of generative models, GAN and VAE. Neither of them explicitly learns the probability density function of real data, $p(\\mathbf{x})$ (where $\\mathbf{x} \\in \\mathcal{D}$) \u2014 because it is really hard! Taking the generative model with latent variables as an example, $p(\\mathbf{x}) = \\int p(\\mathbf{x}\\vert\\mathbf{z})p(\\mathbf{z})d\\mathbf{z}$ can hardly be calculated as it is intractable to go through all possible values of the latent code $\\mathbf{z}$.",
+        "date": "2024-12-21",
+        "tags": [
+            "gflownet",
+            "flow models"
+        ]
     }
 }
