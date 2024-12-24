@@ -41135,5 +41135,20 @@
             "gflownet",
             "flow models"
         ]
+    },
+    "https://github.com/Thytu/Agentarium": {
+        "extra-tags": [
+            "agents",
+            "open-source",
+            "framework",
+            "ai",
+            "interactive"
+        ],
+        "date": "2024-12-20",
+        "title": "Agentarium",
+        "summary": "open-source framework for creating and managing simulations populated with AI-powered agents. It provides an intuitive platform for designing complex, interactive environments where agents can act, learn, and evolve.",
+        "tags": [
+            "python"
+        ]
     }
 }

@@ -188466,5 +188466,29 @@
     {
         "head": "models",
         "tail": "deep"
+    },
+    {
+        "head": "agents",
+        "tail": "open-source"
+    },
+    {
+        "head": "agents",
+        "tail": "framework"
+    },
+    {
+        "head": "agents",
+        "tail": "interactive"
+    },
+    {
+        "head": "open-source",
+        "tail": "interactive"
+    },
+    {
+        "head": "framework",
+        "tail": "interactive"
+    },
+    {
+        "head": "ai",
+        "tail": "interactive"
     }
 ]
