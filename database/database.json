@@ -41150,5 +41150,71 @@
         "tags": [
             "python"
         ]
+    },
+    "https://www.ag-grid.com/react-data-grid/deep-dive/": {
+        "extra-tags": [
+            "react",
+            "concepts",
+            "table"
+        ],
+        "title": "React Grid: Creating a Basic Grid | AG Grid",
+        "summary": "An introduction to the key concepts of AG Grid. Download AG Grid v33.0.0 today: The best React Table & React Data Grid in the world.",
+        "date": "2024-12-24",
+        "tags": [
+            "design",
+            "grid",
+            "js table",
+            "web"
+        ]
+    },
+    "https://www.connectedpapers.com/main/db036656f199b163ba07f9ce832e75a634224f1f/CHERCHE%3A-A-New-Tool-to-Rapidly-Implement-Pipelines-in-Information-Retrieval/graph": {
+        "extra-tags": [
+            "find",
+            "academic"
+        ],
+        "title": "Connected Papers | Find and explore academic papers",
+        "summary": "A unique, visual tool to help researchers and applied scientists find and explore papers relevant to their field of work.",
+        "date": "2024-12-24",
+        "tags": [
+            "connected papers",
+            "graph",
+            "papers",
+            "search"
+        ]
+    },
+    "http://arxiv.org/abs/2412.17747": {
+        "extra-tags": [
+            "differentiable",
+            "augmentation",
+            "reasoning"
+        ],
+        "title": "Deliberation in Latent Space via Differentiable Cache Augmentation",
+        "summary": "Techniques enabling large language models (LLMs) to \"think more\" by generating and attending to intermediate reasoning steps have shown promise in solving complex problems. However, the standard approaches generate sequences of discrete tokens immediately before responding, and so they can incur significant latency costs and be challenging to optimize. In this work, we demonstrate that a frozen LLM can be augmented with an offline coprocessor that operates on the model's key-value (kv) cache. This coprocessor augments the cache with a set of latent embeddings designed to improve the fidelity of subsequent decoding. We train this coprocessor using the language modeling loss from the decoder on standard pretraining data, while keeping the decoder itself frozen. This approach enables the model to learn, in an end-to-end differentiable fashion, how to distill additional computation into its kv-cache. Because the decoder remains unchanged, the coprocessor can operate offline and asynchronously, and the language model can function normally if the coprocessor is unavailable or if a given cache is deemed not to require extra computation. We show experimentally that when a cache is augmented, the decoder achieves lower perplexity on numerous subsequent tokens. Furthermore, even without any task-specific training, our experiments demonstrate that cache augmentation consistently reduces perplexity and improves performance across a range of reasoning-intensive tasks.",
+        "date": "2024-12-24",
+        "tags": [
+            "computer science - artificial intelligence",
+            "computer science - computation and language",
+            "computer science - machine learning",
+            "cache",
+            "differentiable memory",
+            "google",
+            "llm",
+            "memory"
+        ]
+    },
+    "https://motion.dev/docs/react-quick-start": {
+        "extra-tags": [
+            "react",
+            "interactive",
+            "examples"
+        ],
+        "title": "Quick start | Motion for React (prev Framer Motion)",
+        "summary": "Get started with Motion for React with our installation guide and interactive examples.",
+        "date": "2024-12-24",
+        "tags": [
+            "animation",
+            "js",
+            "motion"
+        ]
     }
 }
