@@ -41216,5 +41216,23 @@
             "js",
             "motion"
         ]
+    },
+    "https://github.com/probabl-ai/skore": {
+        "extra-tags": [
+            "modeling",
+            "scikit-learn-api"
+        ],
+        "date": "2024-06-17",
+        "title": "skore",
+        "summary": "The scikit-learn Modeling Companion",
+        "tags": [
+            "data-analysis",
+            "workflow",
+            "python",
+            "data-science",
+            "machine-learning",
+            "scikit-learn",
+            "data-visualization"
+        ]
     }
 }

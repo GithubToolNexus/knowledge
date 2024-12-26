@@ -188846,5 +188846,53 @@
     {
         "head": "interactive",
         "tail": "examples"
+    },
+    {
+        "head": "data-analysis",
+        "tail": "workflow"
+    },
+    {
+        "head": "data-analysis",
+        "tail": "modeling"
+    },
+    {
+        "head": "data-analysis",
+        "tail": "scikit-learn-api"
+    },
+    {
+        "head": "workflow",
+        "tail": "data-science"
+    },
+    {
+        "head": "workflow",
+        "tail": "scikit-learn"
+    },
+    {
+        "head": "workflow",
+        "tail": "data-visualization"
+    },
+    {
+        "head": "workflow",
+        "tail": "modeling"
+    },
+    {
+        "head": "workflow",
+        "tail": "scikit-learn-api"
+    },
+    {
+        "head": "data-science",
+        "tail": "scikit-learn-api"
+    },
+    {
+        "head": "scikit-learn",
+        "tail": "modeling"
+    },
+    {
+        "head": "data-visualization",
+        "tail": "scikit-learn-api"
+    },
+    {
+        "head": "modeling",
+        "tail": "scikit-learn-api"
     }
 ]
