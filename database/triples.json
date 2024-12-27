@@ -188894,5 +188894,93 @@
     {
         "head": "modeling",
         "tail": "scikit-learn-api"
+    },
+    {
+        "head": "trino",
+        "tail": "dbt"
+    },
+    {
+        "head": "trino",
+        "tail": "query-language"
+    },
+    {
+        "head": "trino",
+        "tail": "scala"
+    },
+    {
+        "head": "trino",
+        "tail": "query"
+    },
+    {
+        "head": "trino",
+        "tail": "language"
+    },
+    {
+        "head": "duckdb",
+        "tail": "dbt"
+    },
+    {
+        "head": "duckdb",
+        "tail": "query-language"
+    },
+    {
+        "head": "duckdb",
+        "tail": "scala"
+    },
+    {
+        "head": "duckdb",
+        "tail": "query"
+    },
+    {
+        "head": "duckdb",
+        "tail": "language"
+    },
+    {
+        "head": "sql",
+        "tail": "query-language"
+    },
+    {
+        "head": "sql",
+        "tail": "scala"
+    },
+    {
+        "head": "dbt",
+        "tail": "query-language"
+    },
+    {
+        "head": "dbt",
+        "tail": "scala"
+    },
+    {
+        "head": "dbt",
+        "tail": "query"
+    },
+    {
+        "head": "dbt",
+        "tail": "language"
+    },
+    {
+        "head": "query-language",
+        "tail": "scala"
+    },
+    {
+        "head": "query-language",
+        "tail": "query"
+    },
+    {
+        "head": "query-language",
+        "tail": "language"
+    },
+    {
+        "head": "scala",
+        "tail": "query"
+    },
+    {
+        "head": "scala",
+        "tail": "language"
+    },
+    {
+        "head": "query",
+        "tail": "language"
     }
 ]

@@ -41234,5 +41234,22 @@
             "scikit-learn",
             "data-visualization"
         ]
+    },
+    "https://github.com/wvlet/wvlet": {
+        "extra-tags": [
+            "query",
+            "language"
+        ],
+        "date": "2024-08-23",
+        "title": "wvlet",
+        "summary": "A flow-style query language for SQL engines",
+        "tags": [
+            "trino",
+            "duckdb",
+            "sql",
+            "dbt",
+            "query-language",
+            "scala"
+        ]
     }
 }
