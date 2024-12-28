@@ -188982,5 +188982,45 @@
     {
         "head": "query",
         "tail": "language"
+    },
+    {
+        "head": "s2",
+        "tail": "sdk"
+    },
+    {
+        "head": "s2",
+        "tail": "s3"
+    },
+    {
+        "head": "s2",
+        "tail": "rust"
+    },
+    {
+        "head": "s2",
+        "tail": "wal"
+    },
+    {
+        "head": "sdk",
+        "tail": "s3"
+    },
+    {
+        "head": "sdk",
+        "tail": "rust"
+    },
+    {
+        "head": "sdk",
+        "tail": "wal"
+    },
+    {
+        "head": "s3",
+        "tail": "rust"
+    },
+    {
+        "head": "s3",
+        "tail": "wal"
+    },
+    {
+        "head": "rust",
+        "tail": "wal"
     }
 ]

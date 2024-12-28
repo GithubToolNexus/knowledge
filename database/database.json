@@ -41251,5 +41251,18 @@
             "query-language",
             "scala"
         ]
+    },
+    "https://github.com/s2-streamstore/s2-sdk-rust": {
+        "extra-tags": [],
+        "date": "2024-09-04",
+        "title": "s2-sdk-rust",
+        "summary": "Rust SDK for S2",
+        "tags": [
+            "s2",
+            "sdk",
+            "s3",
+            "rust",
+            "wal"
+        ]
     }
 }
