@@ -189022,5 +189022,81 @@
     {
         "head": "rust",
         "tail": "wal"
+    },
+    {
+        "head": "reactjs",
+        "tail": "npm"
+    },
+    {
+        "head": "reactjs",
+        "tail": "components"
+    },
+    {
+        "head": "reactjs",
+        "tail": "build"
+    },
+    {
+        "head": "react-components",
+        "tail": "npm"
+    },
+    {
+        "head": "react-components",
+        "tail": "react"
+    },
+    {
+        "head": "react-components",
+        "tail": "components"
+    },
+    {
+        "head": "react-components",
+        "tail": "build"
+    },
+    {
+        "head": "ui-system",
+        "tail": "npm"
+    },
+    {
+        "head": "ui-system",
+        "tail": "react"
+    },
+    {
+        "head": "ui-system",
+        "tail": "components"
+    },
+    {
+        "head": "ui-system",
+        "tail": "build"
+    },
+    {
+        "head": "tailwindcss",
+        "tail": "npm"
+    },
+    {
+        "head": "tailwindcss",
+        "tail": "react"
+    },
+    {
+        "head": "tailwindcss",
+        "tail": "components"
+    },
+    {
+        "head": "tailwindcss",
+        "tail": "build"
+    },
+    {
+        "head": "npm",
+        "tail": "react"
+    },
+    {
+        "head": "npm",
+        "tail": "components"
+    },
+    {
+        "head": "npm",
+        "tail": "build"
+    },
+    {
+        "head": "components",
+        "tail": "build"
     }
 ]

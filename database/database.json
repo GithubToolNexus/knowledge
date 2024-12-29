@@ -41264,5 +41264,23 @@
             "rust",
             "wal"
         ]
+    },
+    "https://github.com/tremorlabs/tremor-npm": {
+        "extra-tags": [
+            "npm",
+            "react",
+            "components",
+            "build"
+        ],
+        "date": "2022-04-19",
+        "title": "tremor-npm",
+        "summary": "React components to build charts and dashboards",
+        "tags": [
+            "typescript",
+            "reactjs",
+            "react-components",
+            "ui-system",
+            "tailwindcss"
+        ]
     }
 }
