@@ -41282,5 +41282,47 @@
             "ui-system",
             "tailwindcss"
         ]
+    },
+    "https://github.com/ghostty-org/ghostty": {
+        "extra-tags": [
+            "fast",
+            "rich",
+            "cross-platform",
+            "terminal",
+            "platform"
+        ],
+        "date": "2022-03-29",
+        "title": "ghostty",
+        "summary": "\ud83d\udc7b Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
+        "tags": [
+            "zig"
+        ]
+    },
+    "https://github.com/huggingface/picotron": {
+        "extra-tags": [
+            "minimalistic",
+            "distributed",
+            "training",
+            "framework",
+            "education"
+        ],
+        "date": "2024-09-18",
+        "title": "picotron",
+        "summary": "Minimalistic 4D-parallelism distributed training framework for education purpose",
+        "tags": [
+            "python"
+        ]
+    },
+    "https://abishekmuthian.com/how-i-run-llms-locally/": {
+        "extra-tags": [
+            "llms",
+            "hacker"
+        ],
+        "title": "Hackernews I Run LLMs Locally (abishekmuthian.com)",
+        "tags": [
+            "hackernews"
+        ],
+        "summary": "",
+        "date": "2024-12-30"
     }
 }

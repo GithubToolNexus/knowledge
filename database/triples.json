@@ -189098,5 +189098,89 @@
     {
         "head": "components",
         "tail": "build"
+    },
+    {
+        "head": "zig",
+        "tail": "fast"
+    },
+    {
+        "head": "zig",
+        "tail": "rich"
+    },
+    {
+        "head": "zig",
+        "tail": "cross-platform"
+    },
+    {
+        "head": "zig",
+        "tail": "terminal"
+    },
+    {
+        "head": "zig",
+        "tail": "platform"
+    },
+    {
+        "head": "fast",
+        "tail": "rich"
+    },
+    {
+        "head": "fast",
+        "tail": "cross-platform"
+    },
+    {
+        "head": "fast",
+        "tail": "platform"
+    },
+    {
+        "head": "rich",
+        "tail": "cross-platform"
+    },
+    {
+        "head": "rich",
+        "tail": "platform"
+    },
+    {
+        "head": "cross-platform",
+        "tail": "terminal"
+    },
+    {
+        "head": "cross-platform",
+        "tail": "platform"
+    },
+    {
+        "head": "terminal",
+        "tail": "platform"
+    },
+    {
+        "head": "python",
+        "tail": "education"
+    },
+    {
+        "head": "minimalistic",
+        "tail": "distributed"
+    },
+    {
+        "head": "minimalistic",
+        "tail": "framework"
+    },
+    {
+        "head": "minimalistic",
+        "tail": "education"
+    },
+    {
+        "head": "distributed",
+        "tail": "education"
+    },
+    {
+        "head": "training",
+        "tail": "education"
+    },
+    {
+        "head": "framework",
+        "tail": "education"
+    },
+    {
+        "head": "llms",
+        "tail": "hacker"
     }
 ]
