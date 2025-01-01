@@ -189390,5 +189390,45 @@
     {
         "head": "library",
         "tail": "code"
+    },
+    {
+        "head": "ollama",
+        "tail": "model"
+    },
+    {
+        "head": "ollama",
+        "tail": "parser"
+    },
+    {
+        "head": "model",
+        "tail": "parser"
+    },
+    {
+        "head": "parser",
+        "tail": "llm"
+    },
+    {
+        "head": "svelte",
+        "tail": "extract"
+    },
+    {
+        "head": "svelte",
+        "tail": "text"
+    },
+    {
+        "head": "svelte",
+        "tail": "pdf extract"
+    },
+    {
+        "head": "extract",
+        "tail": "text"
+    },
+    {
+        "head": "extract",
+        "tail": "pdf extract"
+    },
+    {
+        "head": "text",
+        "tail": "pdf extract"
     }
 ]

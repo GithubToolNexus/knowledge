@@ -41358,5 +41358,30 @@
         "tags": [
             "python"
         ]
+    },
+    "https://github.com/axelbellec/ollama-model-beverage-parser": {
+        "extra-tags": [
+            "ollama",
+            "model",
+            "parser",
+            "llm"
+        ],
+        "date": "2024-12-30",
+        "title": "ollama-model-beverage-parser",
+        "summary": "Specialized LLM that converts beverage descriptions into structured data, built with Ollama.",
+        "tags": []
+    },
+    "https://github.com/julien-blanchon/Montelimar": {
+        "extra-tags": [
+            "extract",
+            "text",
+            "pdf extract"
+        ],
+        "date": "2025-01-01",
+        "title": "Montelimar",
+        "summary": "Montelimar - Extract text from anywhere",
+        "tags": [
+            "svelte"
+        ]
     }
 }
