@@ -189182,5 +189182,213 @@
     {
         "head": "llms",
         "tail": "hacker"
+    },
+    {
+        "head": "hacktoberfest",
+        "tail": "nerd-fonts"
+    },
+    {
+        "head": "hacktoberfest",
+        "tail": "icons"
+    },
+    {
+        "head": "hacktoberfest",
+        "tail": "ls"
+    },
+    {
+        "head": "hacktoberfest",
+        "tail": "color"
+    },
+    {
+        "head": "hacktoberfest",
+        "tail": "modern"
+    },
+    {
+        "head": "hacktoberfest",
+        "tail": "tableau-alternative"
+    },
+    {
+        "head": "nerd-fonts",
+        "tail": "files"
+    },
+    {
+        "head": "nerd-fonts",
+        "tail": "icons"
+    },
+    {
+        "head": "nerd-fonts",
+        "tail": "ls"
+    },
+    {
+        "head": "nerd-fonts",
+        "tail": "tools"
+    },
+    {
+        "head": "nerd-fonts",
+        "tail": "rust"
+    },
+    {
+        "head": "nerd-fonts",
+        "tail": "color"
+    },
+    {
+        "head": "nerd-fonts",
+        "tail": "terminal"
+    },
+    {
+        "head": "nerd-fonts",
+        "tail": "command-line"
+    },
+    {
+        "head": "nerd-fonts",
+        "tail": "modern"
+    },
+    {
+        "head": "nerd-fonts",
+        "tail": "tableau-alternative"
+    },
+    {
+        "head": "files",
+        "tail": "icons"
+    },
+    {
+        "head": "files",
+        "tail": "tools"
+    },
+    {
+        "head": "files",
+        "tail": "color"
+    },
+    {
+        "head": "files",
+        "tail": "terminal"
+    },
+    {
+        "head": "files",
+        "tail": "tableau-alternative"
+    },
+    {
+        "head": "icons",
+        "tail": "ls"
+    },
+    {
+        "head": "icons",
+        "tail": "tools"
+    },
+    {
+        "head": "icons",
+        "tail": "rust"
+    },
+    {
+        "head": "icons",
+        "tail": "color"
+    },
+    {
+        "head": "icons",
+        "tail": "terminal"
+    },
+    {
+        "head": "icons",
+        "tail": "command-line"
+    },
+    {
+        "head": "icons",
+        "tail": "modern"
+    },
+    {
+        "head": "icons",
+        "tail": "tableau-alternative"
+    },
+    {
+        "head": "ls",
+        "tail": "tools"
+    },
+    {
+        "head": "ls",
+        "tail": "color"
+    },
+    {
+        "head": "ls",
+        "tail": "terminal"
+    },
+    {
+        "head": "ls",
+        "tail": "tableau-alternative"
+    },
+    {
+        "head": "tools",
+        "tail": "rust"
+    },
+    {
+        "head": "tools",
+        "tail": "color"
+    },
+    {
+        "head": "tools",
+        "tail": "terminal"
+    },
+    {
+        "head": "tools",
+        "tail": "command-line"
+    },
+    {
+        "head": "tools",
+        "tail": "modern"
+    },
+    {
+        "head": "tools",
+        "tail": "tableau-alternative"
+    },
+    {
+        "head": "rust",
+        "tail": "color"
+    },
+    {
+        "head": "rust",
+        "tail": "tableau-alternative"
+    },
+    {
+        "head": "color",
+        "tail": "terminal"
+    },
+    {
+        "head": "color",
+        "tail": "command-line"
+    },
+    {
+        "head": "color",
+        "tail": "modern"
+    },
+    {
+        "head": "color",
+        "tail": "tableau-alternative"
+    },
+    {
+        "head": "terminal",
+        "tail": "modern"
+    },
+    {
+        "head": "terminal",
+        "tail": "tableau-alternative"
+    },
+    {
+        "head": "command-line",
+        "tail": "tableau-alternative"
+    },
+    {
+        "head": "modern",
+        "tail": "tableau-alternative"
+    },
+    {
+        "head": "agents",
+        "tail": "library"
+    },
+    {
+        "head": "agents",
+        "tail": "code"
+    },
+    {
+        "head": "library",
+        "tail": "code"
     }
 ]

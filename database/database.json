@@ -41324,5 +41324,39 @@
         ],
         "summary": "",
         "date": "2024-12-30"
+    },
+    "https://github.com/eza-community/eza": {
+        "extra-tags": [
+            "modern",
+            "tableau-alternative"
+        ],
+        "date": "2023-07-28",
+        "title": "eza",
+        "summary": "A modern alternative to ls",
+        "tags": [
+            "hacktoberfest",
+            "nerd-fonts",
+            "files",
+            "icons",
+            "ls",
+            "tools",
+            "rust",
+            "color",
+            "terminal",
+            "command-line"
+        ]
+    },
+    "https://github.com/huggingface/smolagents": {
+        "extra-tags": [
+            "agents",
+            "library",
+            "code"
+        ],
+        "date": "2024-12-05",
+        "title": "smolagents",
+        "summary": "\ud83e\udd17 smolagents: a barebones library for agents. Agents write python code to call tools and orchestrate other agents.",
+        "tags": [
+            "python"
+        ]
     }
 }
