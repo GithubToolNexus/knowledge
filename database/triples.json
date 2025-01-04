@@ -189430,5 +189430,13 @@
     {
         "head": "text",
         "tail": "pdf extract"
+    },
+    {
+        "head": "cross-platform",
+        "tail": "gui"
+    },
+    {
+        "head": "cross-platform",
+        "tail": "automation"
     }
 ]

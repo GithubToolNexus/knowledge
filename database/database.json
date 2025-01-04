@@ -41383,5 +41383,18 @@
         "tags": [
             "svelte"
         ]
+    },
+    "https://github.com/asweigart/pyautogui": {
+        "extra-tags": [
+            "cross-platform",
+            "gui",
+            "automation"
+        ],
+        "date": "2014-07-17",
+        "title": "pyautogui",
+        "summary": "A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.",
+        "tags": [
+            "python"
+        ]
     }
 }
